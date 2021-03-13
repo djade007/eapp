@@ -1,0 +1,3 @@
+rootProject.name = "eApp"
+include ':app'
+include ':EQMobileWork'
